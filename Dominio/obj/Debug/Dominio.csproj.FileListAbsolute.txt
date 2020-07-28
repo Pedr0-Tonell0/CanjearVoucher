@@ -1,0 +1,12 @@
+C:\Users\pedri_000\source\repos\TP3_TONELLO\Dominio\bin\Debug\Dominio.dll
+C:\Users\pedri_000\source\repos\TP3_TONELLO\Dominio\bin\Debug\Dominio.pdb
+C:\Users\pedri_000\source\repos\TP3_TONELLO\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\pedri_000\source\repos\TP3_TONELLO\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\pedri_000\source\repos\TP3_TONELLO\Dominio\obj\Debug\Dominio.dll
+C:\Users\pedri_000\source\repos\TP3_TONELLO\Dominio\obj\Debug\Dominio.pdb
+C:\Users\pedri_000\Desktop\source\repos\TP3_TONELLO\Dominio\bin\Debug\Dominio.dll
+C:\Users\pedri_000\Desktop\source\repos\TP3_TONELLO\Dominio\bin\Debug\Dominio.pdb
+C:\Users\pedri_000\Desktop\source\repos\TP3_TONELLO\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\pedri_000\Desktop\source\repos\TP3_TONELLO\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\pedri_000\Desktop\source\repos\TP3_TONELLO\Dominio\obj\Debug\Dominio.dll
+C:\Users\pedri_000\Desktop\source\repos\TP3_TONELLO\Dominio\obj\Debug\Dominio.pdb

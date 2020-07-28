@@ -1,0 +1,32 @@
+﻿
+.social-section {
+    font-family: 'Paytone One', sans-serif;
+    padding-top: 20px;
+    padding-bottom: 60px;
+    color: black;
+    text-align: center;
+    background: url(https://images.hdqwalls.com/download/background-geometric-design-backdrop-texture-h2-3840x2160.jpg);
+}
+
+h3 {
+    font-family: 'Paytone One', sans-serif;
+}
+
+.hover {
+    color: black;
+}
+
+    .hover:hover {
+        box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.2), 0 10px 300px 0 rgba(0, 0, 0, 0.19);
+        padding: 18px;
+        margin-top: -25px;
+    }
+
+body {
+    background: url(https://images.hdqwalls.com/download/background-geometric-design-backdrop-texture-h2-3840x2160.jpg);
+}
+
+.img {
+    width: 150px;
+    height: 150px;
+}

@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PageMaster.master.cs" Inherits="TP3_TONELLO.PageMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+
+
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+        <form id="principal" runat="server">
+              <div>
+            <div id="header">
+                <header>
+                    <asp:ContentPlaceHolder ID="cabecera" runat="server">
+
+
+                   
+
+                   
+                    </asp:ContentPlaceHolder>
+                </header>
+            </div>
+                  </div>
+       <div id="section">
+                <section>
+
+                    <asp:ContentPlaceHolder ID="cuerpo" runat="server">
+
+
+                    </asp:ContentPlaceHolder>
+                </section>
+            </div>
+            </form>
+</body>
+</html>

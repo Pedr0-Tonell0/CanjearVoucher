@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP3_TONELLO", "TP3_TONELLO\TP3_TONELLO.csproj", "{790A6C7A-F5CF-4484-B57D-456DD9DD50ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{CAA4BB87-D647-4E03-9D93-68013F0C4F8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{21C3C713-23EE-4C03-8148-C145CBEBEF36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{790A6C7A-F5CF-4484-B57D-456DD9DD50ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{790A6C7A-F5CF-4484-B57D-456DD9DD50ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{790A6C7A-F5CF-4484-B57D-456DD9DD50ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{790A6C7A-F5CF-4484-B57D-456DD9DD50ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA4BB87-D647-4E03-9D93-68013F0C4F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA4BB87-D647-4E03-9D93-68013F0C4F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA4BB87-D647-4E03-9D93-68013F0C4F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA4BB87-D647-4E03-9D93-68013F0C4F8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C3C713-23EE-4C03-8148-C145CBEBEF36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C3C713-23EE-4C03-8148-C145CBEBEF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C3C713-23EE-4C03-8148-C145CBEBEF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C3C713-23EE-4C03-8148-C145CBEBEF36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AFB74B7-8C10-49DA-99F1-9C7F18B34FD7}
+	EndGlobalSection
+EndGlobal
